@@ -1,0 +1,42 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+    background-image: url("../Imagens/endcity.png");
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container2{
+    border: 2px solid white;
+    border-radius: 20px;
+    width: 300px;
+    height: 250px;
+    padding: 20px;
+    margin: 0 auto;
+    border-color: white;
+}
+.container1{
+    border: 2px solid white;
+    border-radius: 20px;
+    width: 300px;
+    height: 275px;
+    padding: 20px;
+    margin: 0 auto;
+    border-color: white;
+}
+h2{
+    color: white;
+}
+header{
+    text-align: center;
+    background-color: none;
+    color: white;
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+}
